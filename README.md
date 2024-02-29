@@ -5,4 +5,4 @@ A window-based calculator with all the functions of a typical simple calculator 
 Compile Kalkulator.java file.
 
 ## Results
-![Temperature dependence of energy gap](./images/kalkulator.jpg)
+![Calculator](./images/kalkulator.jpg)
